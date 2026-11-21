@@ -1,0 +1,24 @@
+name: validation
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Node tests
+        run: node --test plugins/solofounder-zcode/tests/*.test.mjs
+      - name: Validate bundle structure
+        run: python tests/validate_bundle.py
+      - name: Preview server security smoke tests
+        run: python tests/test_preview_server.py

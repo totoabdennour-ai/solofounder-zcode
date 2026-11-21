@@ -1,0 +1,252 @@
+{
+  "project": "SoloFounder for ZCode",
+  "version": "2.0.0",
+  "file_count": 49,
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "size_bytes": 623,
+      "sha256": "5398c42c6a5ec9cd58655d6bacb7f73edbfc5033271a8b573bfdd221adcea44f"
+    },
+    {
+      "path": ".gitignore",
+      "size_bytes": 54,
+      "sha256": "4094982110d5473fc598b0f5240c7289cf285af13b36799ddfee7553b4119d85"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size_bytes": 368,
+      "sha256": "09df90db93a6e2c9b81b1bbef4483dd076ba5a9b133d7c88626e7d5b62e901be"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "size_bytes": 929,
+      "sha256": "d1b0743b2a5131972ab851ac90fb2f2b8b2286181551efe8a5b652d03f9cb7f3"
+    },
+    {
+      "path": "LICENSE",
+      "size_bytes": 1077,
+      "sha256": "2dcddf5c77fcdacf17d919b527a96a4a497df53405c6916d84b687053b0046f2"
+    },
+    {
+      "path": "NOTICE.md",
+      "size_bytes": 681,
+      "sha256": "074b870537193f5f9f2003a6f1ac323753f59ca5f4b122080a9fb8fc6cc4d45a"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 6215,
+      "sha256": "89e5cc16426c5be1785817ba0fd6b71af2979bf49e059e9f93f08545eaec75fe"
+    },
+    {
+      "path": "README_AR.md",
+      "size_bytes": 5057,
+      "sha256": "077bd6b614006d7a39a1885f561aeebc363c8821be61ff785eea3ba2e25afa9e"
+    },
+    {
+      "path": "SECURITY-NOTES.md",
+      "size_bytes": 10040,
+      "sha256": "5004d8e9f0ac69166d26e6a43ba003e7e0bd1572a85e58da5be05e9534d9bf00"
+    },
+    {
+      "path": "docs/ACCEPTANCE-CHECKLIST.md",
+      "size_bytes": 1712,
+      "sha256": "b1fd39c3068061cd56837a2817c5aab1519a616854434d47ed25194701775e7f"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "size_bytes": 1843,
+      "sha256": "dd32eca118cb5fb4ccb61528239869e88fe3b19e2b18f964f39e272638f884d9"
+    },
+    {
+      "path": "docs/QUALITY-METRICS.md",
+      "size_bytes": 2325,
+      "sha256": "14284537e72405962b3934a7a0bde3da6ced10b70ae1c6ba7ee66f26e3d5757c"
+    },
+    {
+      "path": "marketplace.json",
+      "size_bytes": 609,
+      "sha256": "04dfe9981eead91c76d77adcd996bfe4cbbada517bc59f10c653ce1f81b533b6"
+    },
+    {
+      "path": "plugins/solofounder-zcode/.zcode-plugin/plugin.json",
+      "size_bytes": 703,
+      "sha256": "ad545161cdff6c99e2e26c1355ed8301ff282e9641277bf28951ae6f6b4a001a"
+    },
+    {
+      "path": "plugins/solofounder-zcode/LICENSE",
+      "size_bytes": 1077,
+      "sha256": "2dcddf5c77fcdacf17d919b527a96a4a497df53405c6916d84b687053b0046f2"
+    },
+    {
+      "path": "plugins/solofounder-zcode/NOTICE.md",
+      "size_bytes": 447,
+      "sha256": "763a8178e2a64721e190f6121337b910b2c0dc62306cb6d83ef48684b17c0b3e"
+    },
+    {
+      "path": "plugins/solofounder-zcode/README.md",
+      "size_bytes": 308,
+      "sha256": "2893fe6d919d38064f91d4ca54424977704246915755ff51811241c71ae49f9e"
+    },
+    {
+      "path": "plugins/solofounder-zcode/README_AR.md",
+      "size_bytes": 2959,
+      "sha256": "4c885ce60d807d67a43820bdd89f3bbc7210a8903f9df5a45424c90bb408e95d"
+    },
+    {
+      "path": "plugins/solofounder-zcode/SECURITY-NOTES.md",
+      "size_bytes": 10040,
+      "sha256": "5004d8e9f0ac69166d26e6a43ba003e7e0bd1572a85e58da5be05e9534d9bf00"
+    },
+    {
+      "path": "plugins/solofounder-zcode/ZCODE-AGENTS-SNIPPET.md",
+      "size_bytes": 1675,
+      "sha256": "d3644812fb43f02af0c974eca8954584442899d23c502073a5fce1c117066bd3"
+    },
+    {
+      "path": "plugins/solofounder-zcode/agents/implementation-engineer.md",
+      "size_bytes": 958,
+      "sha256": "9d96437c29450153c21c233669b9f4211471ab1c02b7966b278099df9e92f203"
+    },
+    {
+      "path": "plugins/solofounder-zcode/agents/project-architect.md",
+      "size_bytes": 859,
+      "sha256": "bfcd168ab230b1181b9e77777a58b09c80b9e617375300cf9e54defe72c54213"
+    },
+    {
+      "path": "plugins/solofounder-zcode/agents/quality-reviewer.md",
+      "size_bytes": 834,
+      "sha256": "2924f6b64c3aee1da9ba9e83fa394212005111098fec31b46c59b4e3e95e6b01"
+    },
+    {
+      "path": "plugins/solofounder-zcode/agents/research-analyst.md",
+      "size_bytes": 906,
+      "sha256": "eb9c81bfb6797633b1c6def768b124dab1924d6eeff7f256294e97543dbbfa39"
+    },
+    {
+      "path": "plugins/solofounder-zcode/agents/security-reviewer.md",
+      "size_bytes": 962,
+      "sha256": "a6ec5ea5a51f3a21277d0b43d68cae0c9659f7d82132a15dd7f474268e01e25e"
+    },
+    {
+      "path": "plugins/solofounder-zcode/agents/test-engineer.md",
+      "size_bytes": 861,
+      "sha256": "6b92308472149af16734f800acdd9221dbcb044764e161f7b455c123e3bd7e36"
+    },
+    {
+      "path": "plugins/solofounder-zcode/commands/solofounder.md",
+      "size_bytes": 869,
+      "sha256": "fe3befdcc55967e60937418f7c67e01bd433e1338160766508559d4bdb5183b4"
+    },
+    {
+      "path": "plugins/solofounder-zcode/docs/OPERATING-MODEL.md",
+      "size_bytes": 2958,
+      "sha256": "34a55e8c921658955636510704f019b99cd22fed75ca4bfa6dbdd1287f9a6807"
+    },
+    {
+      "path": "plugins/solofounder-zcode/schemas/flow.schema.json",
+      "size_bytes": 1700,
+      "sha256": "7f646b9f6c768c497f672e295be4fc357fa2fdb4cdcd82da19ad676ca32bf148"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/conversation-analysis/SKILL.md",
+      "size_bytes": 2437,
+      "sha256": "e044bd27e0a40394203bb4ade0441565febc103f27ac4ec625b34b0b322dd057"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/exception-enforcement/SKILL.md",
+      "size_bytes": 2375,
+      "sha256": "9718c11ef637d28124d9633d5e9da64ba5f806ba4c116d9533e615022f9610eb"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/flow-composer/SKILL.md",
+      "size_bytes": 3792,
+      "sha256": "2248435b4fd30af0df24fcc47ffbf517cdb76f639c68969ac17b43fea9eb0372"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/flow-composer/stage-execution.md",
+      "size_bytes": 2968,
+      "sha256": "53d4e6ff4e36b6c31dd53e5047bebe6079d6fa0e3ab42f8527f563d710d7f881"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/live-research/SKILL.md",
+      "size_bytes": 1808,
+      "sha256": "3577ea4585457419189cd98f932f559b518a631f626872b1ca9db77dd0fc7618"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/mockup-server/SKILL.md",
+      "size_bytes": 1511,
+      "sha256": "eb0a25248f68ebb5b5d105e58202cfd455751dbf7c0a046104e8ddc3820375e7"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/role-generator/SKILL.md",
+      "size_bytes": 2139,
+      "sha256": "4cfd6c708a6fbf48d85eb6ce394d9b0c25361963220eb8c7249db7f6c93761ab"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/systematic-debugging/SKILL.md",
+      "size_bytes": 1792,
+      "sha256": "e74bd478f62f324fcd4ece5bedf95b5f6601de801969bb2a6e2582410c634d7f"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/systematic-debugging/root-cause-tracing.md",
+      "size_bytes": 839,
+      "sha256": "f4ae2666bee68ccf435b4f01f2f85fd080df41b6a65cbf6a862744e78af20f0d"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/tdd-methodology/SKILL.md",
+      "size_bytes": 1680,
+      "sha256": "fed504999a03cc8b76bfe3c11d6991001e2ae52bedb469732e54b287daf244e3"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/using-solofounder/SKILL.md",
+      "size_bytes": 5417,
+      "sha256": "e0586770e652a0712a6cdc3dac43d1d24d9fd9bc6cc91767c99e8e4583cddc5a"
+    },
+    {
+      "path": "plugins/solofounder-zcode/skills/verification/SKILL.md",
+      "size_bytes": 2322,
+      "sha256": "122168240c45d862a53d9bfa0ca838c9545426a33137ec3a96663746583c59e5"
+    },
+    {
+      "path": "plugins/solofounder-zcode/tests/flow-engine-cli.test.mjs",
+      "size_bytes": 1605,
+      "sha256": "aa738aa6267c1f19b3cd8f40d4bfe3ad2f654ea823d5e05a3e138cc24ebd4252"
+    },
+    {
+      "path": "plugins/solofounder-zcode/tests/flow-engine.test.mjs",
+      "size_bytes": 7224,
+      "sha256": "c364ca1fae4be49fbef970a6c741e2bb4d357bbec2eefcd056bad06c2de728f1"
+    },
+    {
+      "path": "plugins/solofounder-zcode/tests/learning-ledger.test.mjs",
+      "size_bytes": 1532,
+      "sha256": "74b5e3d10abde93b3950bd5ebec57c7a99629d4bedf45d9b764071cae403ab10"
+    },
+    {
+      "path": "plugins/solofounder-zcode/tools/flow-engine.mjs",
+      "size_bytes": 27804,
+      "sha256": "1d7256b3d0e824f2f168c534fc18a73c7cb32895a5bd3805688390a76531313e"
+    },
+    {
+      "path": "plugins/solofounder-zcode/tools/learning-ledger.mjs",
+      "size_bytes": 3892,
+      "sha256": "3752b278feae82bf4d666f8496dfcc1f5a8fb77afa6632b67b0026501024bfc4"
+    },
+    {
+      "path": "plugins/solofounder-zcode/tools/preview-server.mjs",
+      "size_bytes": 6716,
+      "sha256": "fdfed6687ceed68192abb11f33c3f22b5a66ee3de214250a461de10b7bed13f9"
+    },
+    {
+      "path": "tests/test_preview_server.py",
+      "size_bytes": 3548,
+      "sha256": "fa8c1e0f0c036aea81e618234048acd120c9a412a52bf5f23a7da3e9c6dfd159"
+    },
+    {
+      "path": "tests/validate_bundle.py",
+      "size_bytes": 2665,
+      "sha256": "062d52b7255b55240a017acd56a1da1ad325a4e2801970170a56b72c05ee6493"
+    }
+  ]
+}

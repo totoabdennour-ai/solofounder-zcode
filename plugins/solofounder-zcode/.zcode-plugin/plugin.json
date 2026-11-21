@@ -1,0 +1,24 @@
+{
+  "name": "solofounder-zcode",
+  "version": "2.0.0",
+  "description": "Adaptive, evidence-gated project orchestration for ZCode Agent, with scoped learning and explicit human approvals.",
+  "author": {
+    "name": "totoabdennour-ai (community port maintainer)",
+    "url": "https://github.com/totoabdennour-ai"
+  },
+  "homepage": "https://github.com/totoabdennour-ai/solofounder-zcode",
+  "repository": "https://github.com/totoabdennour-ai/solofounder-zcode",
+  "license": "MIT",
+  "keywords": [
+    "solofounder",
+    "zcode",
+    "agent-orchestration",
+    "workflow",
+    "multi-agent",
+    "verification",
+    "security"
+  ],
+  "commands": "commands",
+  "skills": "skills",
+  "agents": "agents"
+}
